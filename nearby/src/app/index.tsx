@@ -1,7 +1,6 @@
 
-import { View, Text } from 'react-native'
+import { View } from 'react-native'
 import { router } from 'expo-router'
-import { api } from '@/services/api'
 
 import { Steps } from '@/components/steps'
 import { Welcome } from '@/components/welcome'
